@@ -1,0 +1,76 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Sistem Pengolahan Rapot
+</name>
+</assembly>
+<members>
+<member name="T:Sistem_Pengolahan_Rapot.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Sistem_Pengolahan_Rapot.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Sistem_Pengolahan_Rapot.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:Sistem_Pengolahan_Rapot.My.Resources.Resources.icons8_book_48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Pengolahan_Rapot.My.Resources.Resources.icons8_google_classroom_48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Pengolahan_Rapot.My.Resources.Resources.icons8_print_48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Pengolahan_Rapot.My.Resources.Resources.icons8_scorecard_48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Pengolahan_Rapot.My.Resources.Resources.icons8_student_male_48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Pengolahan_Rapot.My.Resources.Resources.icons8_visualy_impaired_80">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Pengolahan_Rapot.My.Resources.Resources.icons8_xlarge_icons_filled_100">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Pengolahan_Rapot.My.Resources.Resources.Splash_screen_joshua_01">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Pengolahan_Rapot.My.Resources.Resources.Splash_screen_joshua_logo_01">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Sistem_Pengolahan_Rapot.My.Resources.Resources.Splash_screen_joshua_revisi_3_01">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

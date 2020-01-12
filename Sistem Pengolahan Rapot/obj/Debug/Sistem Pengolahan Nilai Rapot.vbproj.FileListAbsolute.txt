@@ -1,0 +1,46 @@
+C:\Users\Joshua\Documents\Pemrograman Dasar VB.NET\Sistem Pengolahan Rapot\Sistem Pengolahan Rapot\bin\Debug\Sistem Pengolahan Rapot.exe.config
+C:\Users\Joshua\Documents\Pemrograman Dasar VB.NET\Sistem Pengolahan Rapot\Sistem Pengolahan Rapot\bin\Debug\Sistem Pengolahan Rapot.exe
+C:\Users\Joshua\Documents\Pemrograman Dasar VB.NET\Sistem Pengolahan Rapot\Sistem Pengolahan Rapot\bin\Debug\Sistem Pengolahan Rapot.pdb
+C:\Users\Joshua\Documents\Pemrograman Dasar VB.NET\Sistem Pengolahan Rapot\Sistem Pengolahan Rapot\bin\Debug\Sistem Pengolahan Rapot.xml
+C:\Users\Joshua\Documents\Pemrograman Dasar VB.NET\Sistem Pengolahan Rapot\Sistem Pengolahan Rapot\obj\Debug\Sistem Pengolahan Nilai Rapot.vbprojAssemblyReference.cache
+C:\Users\Joshua\Documents\Pemrograman Dasar VB.NET\Sistem Pengolahan Rapot\Sistem Pengolahan Rapot\obj\Debug\Sistem_Pengolahan_Rapot.Form1.resources
+C:\Users\Joshua\Documents\Pemrograman Dasar VB.NET\Sistem Pengolahan Rapot\Sistem Pengolahan Rapot\obj\Debug\Sistem_Pengolahan_Rapot.Resources.resources
+C:\Users\Joshua\Documents\Pemrograman Dasar VB.NET\Sistem Pengolahan Rapot\Sistem Pengolahan Rapot\obj\Debug\Sistem Pengolahan Nilai Rapot.vbproj.GenerateResource.cache
+C:\Users\Joshua\Documents\Pemrograman Dasar VB.NET\Sistem Pengolahan Rapot\Sistem Pengolahan Rapot\obj\Debug\Sistem Pengolahan Rapot.exe
+C:\Users\Joshua\Documents\Pemrograman Dasar VB.NET\Sistem Pengolahan Rapot\Sistem Pengolahan Rapot\obj\Debug\Sistem Pengolahan Rapot.xml
+C:\Users\Joshua\Documents\Pemrograman Dasar VB.NET\Sistem Pengolahan Rapot\Sistem Pengolahan Rapot\obj\Debug\Sistem Pengolahan Rapot.pdb
+C:\Users\Joshua\Documents\Pemrograman Dasar VB.NET\Sistem Pengolahan Rapot\Sistem Pengolahan Rapot\obj\Debug\Sistem_Pengolahan_Rapot.Form3.resources
+C:\Users\Joshua\Documents\Pemrograman Dasar VB.NET\Sistem Pengolahan Rapot\Sistem Pengolahan Rapot\obj\Debug\Sistem_Pengolahan_Rapot.Form4.resources
+C:\Users\Joshua\Documents\Pemrograman Dasar VB.NET\Sistem Pengolahan Rapot\Sistem Pengolahan Rapot\obj\Debug\Sistem_Pengolahan_Rapot.Form5.resources
+C:\Users\Joshua\Documents\Pemrograman Dasar VB.NET\Sistem Pengolahan Rapot\Sistem Pengolahan Rapot\obj\Debug\Sistem_Pengolahan_Rapot.Form6.resources
+C:\Users\Joshua\Documents\Pemrograman Dasar VB.NET\Sistem Pengolahan Rapot\Sistem Pengolahan Rapot\obj\Debug\Sistem_Pengolahan_Rapot.Form7.resources
+D:\Project\Visual Basic\Sistem Pengolahan Rapot\Sistem Pengolahan Rapot\bin\Debug\Sistem Pengolahan Rapot.exe.config
+D:\Project\Visual Basic\Sistem Pengolahan Rapot\Sistem Pengolahan Rapot\bin\Debug\Sistem Pengolahan Rapot.exe
+D:\Project\Visual Basic\Sistem Pengolahan Rapot\Sistem Pengolahan Rapot\bin\Debug\Sistem Pengolahan Rapot.pdb
+D:\Project\Visual Basic\Sistem Pengolahan Rapot\Sistem Pengolahan Rapot\bin\Debug\Sistem Pengolahan Rapot.xml
+D:\Project\Visual Basic\Sistem Pengolahan Rapot\Sistem Pengolahan Rapot\obj\Debug\Sistem Pengolahan Nilai Rapot.vbprojAssemblyReference.cache
+D:\Project\Visual Basic\Sistem Pengolahan Rapot\Sistem Pengolahan Rapot\obj\Debug\Sistem_Pengolahan_Rapot.Form1.resources
+D:\Project\Visual Basic\Sistem Pengolahan Rapot\Sistem Pengolahan Rapot\obj\Debug\Sistem_Pengolahan_Rapot.Form2.resources
+D:\Project\Visual Basic\Sistem Pengolahan Rapot\Sistem Pengolahan Rapot\obj\Debug\Sistem_Pengolahan_Rapot.Form3.resources
+D:\Project\Visual Basic\Sistem Pengolahan Rapot\Sistem Pengolahan Rapot\obj\Debug\Sistem_Pengolahan_Rapot.Form4.resources
+D:\Project\Visual Basic\Sistem Pengolahan Rapot\Sistem Pengolahan Rapot\obj\Debug\Sistem_Pengolahan_Rapot.Form5.resources
+D:\Project\Visual Basic\Sistem Pengolahan Rapot\Sistem Pengolahan Rapot\obj\Debug\Sistem_Pengolahan_Rapot.Form6.resources
+D:\Project\Visual Basic\Sistem Pengolahan Rapot\Sistem Pengolahan Rapot\obj\Debug\Sistem_Pengolahan_Rapot.Form7.resources
+D:\Project\Visual Basic\Sistem Pengolahan Rapot\Sistem Pengolahan Rapot\obj\Debug\Sistem_Pengolahan_Rapot.Resources.resources
+D:\Project\Visual Basic\Sistem Pengolahan Rapot\Sistem Pengolahan Rapot\obj\Debug\Sistem Pengolahan Nilai Rapot.vbproj.GenerateResource.cache
+D:\Project\Visual Basic\Sistem Pengolahan Rapot\Sistem Pengolahan Rapot\obj\Debug\Sistem Pengolahan Nilai Rapot.vbproj.CoreCompileInputs.cache
+D:\Project\Visual Basic\Sistem Pengolahan Rapot\Sistem Pengolahan Rapot\obj\Debug\Sistem Pengolahan Rapot.exe
+D:\Project\Visual Basic\Sistem Pengolahan Rapot\Sistem Pengolahan Rapot\obj\Debug\Sistem Pengolahan Rapot.xml
+D:\Project\Visual Basic\Sistem Pengolahan Rapot\Sistem Pengolahan Rapot\obj\Debug\Sistem Pengolahan Rapot.pdb
+D:\Project\Visual Basic\Sistem Pengolahan Rapot\Sistem Pengolahan Rapot\obj\Debug\Sistem_Pengolahan_Rapot.Form8.resources
+D:\Project\Visual Basic\Sistem Pengolahan Rapot\Sistem Pengolahan Rapot\obj\Debug\Sistem_Pengolahan_Rapot.Form9.resources
+C:\Users\Joshua\Documents\Pemrograman Dasar VB.NET\Sistem Pengolahan Rapot\Sistem Pengolahan Rapot\obj\Debug\Sistem_Pengolahan_Rapot.Form8.resources
+C:\Users\Joshua\Documents\Pemrograman Dasar VB.NET\Sistem Pengolahan Rapot\Sistem Pengolahan Rapot\obj\Debug\Sistem_Pengolahan_Rapot.Form9.resources
+C:\Users\Joshua\Documents\Pemrograman Dasar VB.NET\Sistem Pengolahan Rapot\Sistem Pengolahan Rapot\obj\Debug\Sistem_Pengolahan_Rapot.Form10.resources
+C:\Users\Joshua\Documents\Pemrograman Dasar VB.NET\Sistem Pengolahan Rapot\Sistem Pengolahan Rapot\obj\Debug\Sistem_Pengolahan_Rapot.Form11.resources
+C:\Users\Joshua\Documents\Pemrograman Dasar VB.NET\Sistem Pengolahan Rapot\Sistem Pengolahan Rapot\obj\Debug\Sistem_Pengolahan_Rapot.LoginForm1.resources
+C:\Users\Joshua\Documents\Pemrograman Dasar VB.NET\Sistem Pengolahan Rapot\Sistem Pengolahan Rapot\obj\Debug\Sistem_Pengolahan_Rapot.Form12.resources
+C:\Users\Joshua\Documents\Pemrograman Dasar VB.NET\Sistem Pengolahan Rapot\Sistem Pengolahan Rapot\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Joshua\Documents\Pemrograman Dasar VB.NET\Sistem Pengolahan Rapot\Sistem Pengolahan Rapot\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Joshua\Documents\Pemrograman Dasar VB.NET\Sistem Pengolahan Rapot\Sistem Pengolahan Rapot\obj\Debug\Sistem Pengolahan Nilai Rapot.vbproj.CopyComplete
+C:\Users\Joshua\Documents\Pemrograman Dasar VB.NET\Sistem Pengolahan Rapot\Sistem Pengolahan Rapot\obj\Debug\Sistem_Pengolahan_Rapot.Form13.resources
